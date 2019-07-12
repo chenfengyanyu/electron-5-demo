@@ -1,0 +1,31 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^5.0.5",
+    "electron-devtools-installer": "^2.2.4"
+  },
+  "dependencies": {
+    "node-cmd": "^3.0.0",
+    "puppeteer-core": "^1.18.1",
+    "speed-test": "^2.1.0",
+    "speedtest-net": "^1.5.1",
+    "systeminformation": "^4.14.3",
+    "ua-parser-js": "^0.7.20"
+  }
+}
